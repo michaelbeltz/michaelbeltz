@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @michaelbeltz
-- 👀 I’m interested in UI design, education tech, and cybersecurity
+- 👀 I’m interested in UI design, education tech, and runtime metadata
 - 🌱 I’m currently learning about contextual design
 - 💞️ I’m looking to collaborate on something thats fun to use
 - 📫 How to reach me: michael.beltz@columbia.edu
